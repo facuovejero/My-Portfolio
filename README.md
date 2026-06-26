@@ -31,19 +31,6 @@ Este repositorio reúne algunos de los proyectos que fui desarrollando a lo larg
 **Testing**
 - Tosca Testing
 
----
-
-## 📂 Proyectos
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Nombre del proyecto](#) | Breve descripción del proyecto | HTML, CSS, JS |
-| [Nombre del proyecto](#) | Breve descripción del proyecto | Bootstrap, Node.js |
-| [Nombre del proyecto](#) | Breve descripción del proyecto | JS, Tosca |
-
-> *(Actualizá esta tabla con los links y descripciones reales de tus proyectos)*
-
----
 
 ## 📫 Contacto
 
