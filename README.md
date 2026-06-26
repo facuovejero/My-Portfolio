@@ -49,7 +49,7 @@ Este repositorio reúne algunos de los proyectos que fui desarrollando a lo larg
 
 - 📧 Email: facuovejero017@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/facundo-ovejero-a32a31287(#)
-- 🐙 GitHub: (https://github.com/facuovejero)(#)
+- 🐙 GitHub: (https://github.com/facuovejero)
 
 ---
 
